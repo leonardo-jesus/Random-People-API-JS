@@ -22,7 +22,7 @@
 ## :heavy_check_mark: :iphone: Mobile Result
 
 <h1 align="center">
-    <img alt="Mobile" src="./mobile.gif" width="300px">
+    <img alt="Mobile" src="./mobile.png" width="300px">
 </h1>
 
 ## 🚀 Technologies
