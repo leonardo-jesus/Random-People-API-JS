@@ -1,7 +1,8 @@
 <p align="center">
   <a href="#rocket-Technologies">Technologies</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#-project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-Project">Project</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#-layout">Layout</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
+  <a href="#-How-to-contribute">How to contribute</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#memo-license">License</a>
 </p>
 
@@ -42,7 +43,7 @@ The ***Random User API***,  is a *Responsive* Page that uses a API to request Ra
 
 You can view the project layout in the format via [this link](<https://codepen.io/leonardoj02/pen/QWyyzje>).
 
-## 🤔 How contribute
+## 🤔 How to contribute
 
 - Make a fork;
 - Create a branch with your feature: `git checkout -b my-feature`;
